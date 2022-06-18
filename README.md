@@ -1,4 +1,4 @@
-### Hola! Soy Matías Maglio, estudiante avanzado de la carrera de Análisis de Sistemas. Estoy en la busqueda de desarrollarme profesionalmente en el área. Mis mayores intereses y fortalezas estan en el manejo de sistemas Linux, y automatización de tareas. En esta página comparto algunos de los proyectos en los que trabajo. Contacto: matiashmaglio@gmail.com 👋
+### Hey! 👋 My name is Matías Maglio, I'm a System Analyst always looking forward to learn and participate in new experiences. My main areas of interest in computer science are Automation and use of Linux systems. Here I share some projects I've been working on. Contact: matiashmaglio@gmail.com
 
 <!--
 **MaglioM/MaglioM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
