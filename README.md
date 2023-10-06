@@ -1,5 +1,3 @@
-### Hey! 👋 My name is Matías Maglio, I'm a System Analyst always looking forward to learn and participate in new experiences. My main areas of interest in computer science are Automation and use of Linux systems. Here I share some projects I've been working on. Contact: matiashmaglio@gmail.com
-
 <!--
 **MaglioM/MaglioM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
